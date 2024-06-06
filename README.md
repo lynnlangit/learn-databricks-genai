@@ -3,7 +3,7 @@
 Learning Databricks GenAI LI_L course topics, links and example notebooks.   
 High-level diagram from Databricks documentation (below).
 
-<img src="https://www.databricks.com/en-website-assets/static/8eccd00184d50da8ba9866225e0fa062/25630.png" width=400>
+<kbd><img src="https://www.databricks.com/en-website-assets/static/8eccd00184d50da8ba9866225e0fa062/25630.png" width=400></kbd>
 
 ## Foundations
 
@@ -11,8 +11,10 @@ High-level diagram from Databricks documentation (below).
 - Databricks GenAI Architecture Patterns - [link](https://www.databricks.com/product/machine-learning/build-generative-ai)
 
 ## Prompt Engineering in Databricks	
+
+<kbd><img src="https://github.com/lynnlangit/learn-databricks-genai/blob/main/images/playground.png" width=600></kbd>
 	
-- Use AI Playground - [link](https://docs.databricks.com/en/large-language-models/ai-playground.html)
+- Use AI Playground (example shown above) - [link](https://docs.databricks.com/en/large-language-models/ai-playground.html)
 - Query LLMs - [link](https://docs.databricks.com/en/large-language-models/llm-serving-intro.html)
 - Find pre-trained foundation models - [link](https://docs.databricks.com/en/generative-ai/pretrained-models.html)
 - Use Foundational Model APIs - [link](https://docs.databricks.com/en/large-language-models/llm-serving-intro.html#get-started-using-foundation-model-apis)
