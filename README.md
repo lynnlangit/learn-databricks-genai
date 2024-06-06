@@ -1,9 +1,10 @@
 # Learn Databricks GenAI
 
-Learning Databricks GenAI LI_L course topics, links and example notebooks.   
-High-level diagram from Databricks documentation (below).
-
 <kbd><img src="https://www.databricks.com/en-website-assets/static/8eccd00184d50da8ba9866225e0fa062/25630.png" width=400></kbd>
+
+Learning Databricks GenAI LI_L course topics, links and example notebooks.   
+High-level diagram from Databricks documentation (above).
+
 
 ## Foundations
 
