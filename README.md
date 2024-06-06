@@ -1,10 +1,14 @@
 # Learn Databricks GenAI
 
-Learning Databricks GenAI LI_L course topics, links and example notebooks
+Learning Databricks GenAI LI_L course topics, links and example notebooks.   
+High-level diagram from Databricks documentation (below).
+
+<img src="https://www.databricks.com/en-website-assets/static/8eccd00184d50da8ba9866225e0fa062/25630.png" width=400>
 
 ## Foundations
 
-- Guides from Databricks "What is GenAI?" - [link](https://www.databricks.com/discover/generative-ai)
+- Guide from Databricks "What is GenAI?" - [link](https://www.databricks.com/discover/generative-ai)
+- Databricks GenAI Architecture Patterns - [link](https://www.databricks.com/product/machine-learning/build-generative-ai)
 
 ## Prompt Engineering in Databricks	
 	
