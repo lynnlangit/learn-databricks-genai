@@ -1,12 +1,13 @@
 # Learn Databricks GenAI
 
+Learning Databricks GenAI LI_L course topics, links and example notebooks.     
+
 <kbd><img src="https://www.databricks.com/en-website-assets/static/8eccd00184d50da8ba9866225e0fa062/25630.png" width=400></kbd>
 
-Learning Databricks GenAI LI_L course topics, links and example notebooks.   
-High-level diagram from Databricks documentation (above).
+High-level diagram of Generative AI (Large language model) application development from Databricks documentation (above).
 
 
-## Foundations
+## Foundations of GenAI in Databricks
 
 - Guide from Databricks "What is GenAI?" - [link](https://www.databricks.com/discover/generative-ai)
 - Databricks GenAI Architecture Patterns - [link](https://www.databricks.com/product/machine-learning/build-generative-ai)
@@ -43,8 +44,15 @@ High-level diagram from Databricks documentation (above).
 
 ## Additional Material
 
+### Foundational LLM DBRX from Databricks
+
 - "DBRX-Instruct" Model on HuggingFace - [link](https://huggingface.co/databricks/dbrx-instruct)
 - DBRX model - Databricks's GitHub Repo - [link](https://github.com/databricks/dbrx)
+
+### Mosaic AI from Databricks
+
 - Mosaic AI Training Overview - [link](https://www.databricks.com/product/machine-learning/mosaic-ai-training)
 - Mosaic AI Training Architecture - [link](https://www.databricks.com/blog/mosaic-ai-training-capabilities)
+
+## LLM for Healthcare from Databricks
 - Example Notebook: "Biomedical Question Answering over Custom Datasets with 🦜️🔗 LangChain and Open Source LLMs on Hugging Face" - [link](https://notebooks.databricks.com/notebooks/HLS/hls-llm-doc-qa/index.html#hls-llm-doc-qa_1.html)
