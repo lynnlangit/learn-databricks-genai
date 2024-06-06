@@ -1,4 +1,4 @@
-# Learn Databricks GenAI
+a# Learn Databricks GenAI
 
 Learning Databricks GenAI LI_L course topics, links and example notebooks.     
 
@@ -42,6 +42,8 @@ High-level diagram of Generative AI (Large language model) application developme
 - Understand Foundation Model Training - [link](https://docs.databricks.com/en/large-language-models/foundation-model-training/index.html)
 - Supervised fine tuning with Foundation Model Training - [link](https://docs.databricks.com/en/large-language-models/foundation-model-training/fine-tune-run-tutorial.html)
 
+---
+
 ## Additional Material
 
 ### Foundational LLM DBRX from Databricks
@@ -54,5 +56,5 @@ High-level diagram of Generative AI (Large language model) application developme
 - Mosaic AI Training Overview - [link](https://www.databricks.com/product/machine-learning/mosaic-ai-training)
 - Mosaic AI Training Architecture - [link](https://www.databricks.com/blog/mosaic-ai-training-capabilities)
 
-## LLM for Healthcare from Databricks
+### LLM for Healthcare from Databricks
 - Example Notebook: "Biomedical Question Answering over Custom Datasets with 🦜️🔗 LangChain and Open Source LLMs on Hugging Face" - [link](https://notebooks.databricks.com/notebooks/HLS/hls-llm-doc-qa/index.html#hls-llm-doc-qa_1.html)
