@@ -32,4 +32,5 @@ Learning Databricks GenAI LIL course topics, links and example notebooks
 
 ## Additional Material
 
+- Mosaic AI Training - [link](https://www.databricks.com/product/machine-learning/mosaic-ai-training)
 - Example Notebook: "Biomedical Question Answering over Custom Datasets with 🦜️🔗 LangChain and Open Source LLMs on Hugging Face" - [link](https://notebooks.databricks.com/notebooks/HLS/hls-llm-doc-qa/index.html#hls-llm-doc-qa_1.html)
