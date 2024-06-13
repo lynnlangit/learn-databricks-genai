@@ -10,6 +10,7 @@ High-level diagram of Generative AI (Large language model) application developme
 ## Foundations of GenAI in Databricks
 
 - Guide from Databricks "What is GenAI?" - [link](https://www.databricks.com/discover/generative-ai)
+- Databricks GenAI Cookbook (step-by-step examples) - [link](https://ai-cookbook.io/)
 - Databricks GenAI Architecture Patterns - [link](https://www.databricks.com/product/machine-learning/build-generative-ai)
 
 ## Prompt Engineering in Databricks	
