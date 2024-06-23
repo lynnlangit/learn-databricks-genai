@@ -15,6 +15,7 @@ High-level diagram of Generative AI key application development phases (from Dat
 
 - For course content, see [here](course.md).
 - For additional materials, see [here](additional-material.md).
+- For an overview of MosaicAI by Databricks, see [here](mosaicai.md).
 - For code, see `scripts` or `notebooks` folders in this repor
 
 ## 📁 Scripts Folder Structure and Usage
