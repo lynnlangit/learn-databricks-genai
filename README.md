@@ -45,17 +45,4 @@ High-level diagram of Generative AI (Large language model) application developme
 
 ---
 
-## Additional Material
-
-### Foundational LLM DBRX from Databricks
-
-- "DBRX-Instruct" Model on HuggingFace - [link](https://huggingface.co/databricks/dbrx-instruct)
-- DBRX model - Databricks's GitHub Repo - [link](https://github.com/databricks/dbrx)
-
-### Mosaic AI from Databricks
-
-- Mosaic AI Training Overview - [link](https://www.databricks.com/product/machine-learning/mosaic-ai-training)
-- Mosaic AI Training Architecture - [link](https://www.databricks.com/blog/mosaic-ai-training-capabilities)
-
-### LLM for Healthcare from Databricks
-- Example Notebook: "Biomedical Question Answering over Custom Datasets with 🦜️🔗 LangChain and Open Source LLMs on Hugging Face" - [link](https://notebooks.databricks.com/notebooks/HLS/hls-llm-doc-qa/index.html#hls-llm-doc-qa_1.html)
+For additional material, see [here](additional-material.md).
