@@ -1,6 +1,8 @@
 # Learn Databricks GenAI
 
-Learning Databricks GenAI (Generative AI) for LI_L course topics, links and example notebooks.     
+Companion Repo for `Learning Databricks GenAI` (Generative AI) for my LI_L course topics, links and example notebooks
+- Course will record in August 2024
+- Course will release Fall 2024
 
 <kbd><img src="https://www.databricks.com/en-website-assets/static/8eccd00184d50da8ba9866225e0fa062/25630.png" width=400></kbd>
 
