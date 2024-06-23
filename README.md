@@ -1,22 +1,20 @@
 # Learn Databricks GenAI
 
-Companion Repo for `Learning Databricks GenAI` (Generative AI) for my LI_L course 
-- Repo includes links, samples and notebooks from course and more
-- Course will record in August 2024
-- Course will release Fall 2024
+<kbd><img src="https://www.databricks.com/en-website-assets/static/8eccd00184d50da8ba9866225e0fa062/25630.png" width=600></kbd>
 
-<kbd><img src="https://www.databricks.com/en-website-assets/static/8eccd00184d50da8ba9866225e0fa062/25630.png" width=500></kbd>
-
-High-level diagram of Generative AI key application development phases (from Databricks documentation) shown above
-- Use Large Language Models (LLMs) including DBRX (from Databricks) 
-- Use open source LLMs, such as Mistral or Llama and others
+This is my companion Repo for my `Learning Databricks GenAI` (Generative AI) LI_L course 
+- Repo includes links, samples and notebooks from course and other supplemental material
+- Course will record in August 2024 and will release Fall 2024
+- Shown above is high-level diagram of Generative AI key application development phases (from Databricks documentation)  
+  - Use Large Language Models (LLMs) including DBRX (from Databricks) 
+  - Use open source LLMs, such as Mistral or Llama and others
 
 ## 📚 Content
 
 - For course content, see [here](course.md).
 - For additional materials, see [here](additional-material.md).
 - For an overview of MosaicAI by Databricks, see [here](mosaicai.md).
-- For code, see `scripts` or `notebooks` folders in this repor
+- For sample code, see the `scripts` or `notebooks` folders in this repo
 
 ## 📁 Scripts Folder Structure and Usage
 
