@@ -1,5 +1,9 @@
 # Mosaic AI by Databricks
 
+Image from Databricks Mosaic AI documentation, shows conceptual overview.
+
+<img src="https://www.databricks.com/sites/default/files/inline-images/image6_6.png?v=1718160678" width=800>
+
 ***IMPORTANT: Update to use 'real links' before making this repo public****
 
 ## 🌐 Global Insights
