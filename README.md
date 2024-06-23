@@ -14,7 +14,7 @@ High-level diagram of Generative AI key application development phases (from Dat
 ## 📚 Content
 
 - For course content, see [here](course.md).
-- For additional materials, see [here](additional-materials.md).
+- For additional materials, see [here](additional-material.md).
 - For code, see `scripts` or `notebooks` folders in this repor
 
 ## 📁 Scripts Folder Structure and Usage
