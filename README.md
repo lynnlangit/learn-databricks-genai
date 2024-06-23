@@ -11,9 +11,11 @@ High-level diagram of Generative AI key application development phases (from Dat
 - Use Large Language Models (LLMs) including DBRX (from Databricks) 
 - Use open source LLMs, such as Mistral or Llama and others
 
-## 📚 Course Content
+## 📚 Content
 
-For course content, see [here](course.md).
+- For course content, see [here](course.md).
+- For additional materials, see [here](additional-materials.md).
+- For code, see `scripts` or `notebooks` folders in this repor
 
 ## 📁 Scripts Folder Structure and Usage
 
