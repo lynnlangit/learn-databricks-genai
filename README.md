@@ -26,3 +26,4 @@ The `scripts` folder in this repository is organized into subfolders correspondi
 - **Model Tuning in Databricks**: Features scripts for understanding Hugging Face Transformers, fine-tuning models, and foundation model training in Databricks.
 
 To use these scripts, navigate to the corresponding subfolder and select the script that matches your interest. Each script includes a comment linking back to the original documentation page for further reading and context.
+The example notebooks are organized similarly.
