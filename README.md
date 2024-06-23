@@ -14,3 +14,13 @@ High-level diagram of Generative AI key application development phases (from Dat
 ## Course Content
 
 For course content, see [here](course.md).
+
+## Undoing the Last Commit
+
+To undo the last commit in your repository, you can use the following Git command:
+
+```
+git reset --soft HEAD~1
+```
+
+This command will undo the last commit, but it will leave your files and changes intact. You can then modify your files as needed and commit again when you're ready.
