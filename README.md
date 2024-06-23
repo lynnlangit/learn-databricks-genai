@@ -4,7 +4,9 @@ Learning Databricks GenAI (Generative AI) for LI_L course topics, links and exam
 
 <kbd><img src="https://www.databricks.com/en-website-assets/static/8eccd00184d50da8ba9866225e0fa062/25630.png" width=400></kbd>
 
-High-level diagram of Generative AI (Large language model) application development from Databricks documentation (above).
+High-level diagram of Generative AI application development from Databricks documentation (above)
+- Use Large Language Models (LLMs) including DBRX (from Databricks) 
+- Use open source LLMs, such as Mistral or Llama and others
 
 
 ## 📘 Foundations of GenAI in Databricks
