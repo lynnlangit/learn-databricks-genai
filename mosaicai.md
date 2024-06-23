@@ -1,5 +1,7 @@
 # Mosaic AI by Databricks
 
+***IMPORTANT: Update to use 'real links' before making this repo public****
+
 ## 🌐 Global Insights
 - [Databricks GenAI Overview](https://www.databricks.com/glossary/what-is-generative-ai) - Discover the power of Generative AI with Databricks.
 - [MosaicAI: The Future of Data](https://www.databricks.com/product/mosaic-ai) - Explore how MosaicAI is revolutionizing data analysis and management.
