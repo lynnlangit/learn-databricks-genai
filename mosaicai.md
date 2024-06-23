@@ -8,7 +8,7 @@ Image from Databricks Mosaic AI documentation, shows conceptual overview.
 
 ## 🌐 Global Insights
 - [Databricks GenAI Overview](https://www.databricks.com/glossary/what-is-generative-ai) - Discover the power of Generative AI with Databricks.
-- [MosaicAI: The Future of Data](https://www.databricks.com/product/mosaic-ai) - Explore how MosaicAI is revolutionizing data analysis and management.
+- [MosaicAI: Build and deploy production-quality ML and GenAI applications](https://www.databricks.com/product/machine-learning) - Explore how MosaicAI is revolutionizing data analysis and management.
 - [MosaicAI Use Cases](https://www.databricks.com/solutions/industries) - Learn about the various applications of MosaicAI across industries.
 - [Getting Started with MosaicAI](https://docs.databricks.com/applications/machine-learning/mosaic/index.html) - A beginner's guide to implementing MosaicAI in your projects.
 
