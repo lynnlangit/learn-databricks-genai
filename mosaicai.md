@@ -1,10 +1,10 @@
 # Mosaic AI by Databricks
 
+***IMPORTANT: Update to use 'real links' before making this repo public****
+
 Image from Databricks Mosaic AI documentation, shows conceptual overview.
 
 <img src="https://www.databricks.com/sites/default/files/inline-images/image6_6.png?v=1718160678" width=800>
-
-***IMPORTANT: Update to use 'real links' before making this repo public****
 
 ## 🌐 Global Insights
 - [Databricks GenAI Overview](https://www.databricks.com/glossary/what-is-generative-ai) - Discover the power of Generative AI with Databricks.
@@ -13,7 +13,12 @@ Image from Databricks Mosaic AI documentation, shows conceptual overview.
 - [Getting Started with MosaicAI](https://docs.databricks.com/applications/machine-learning/mosaic/index.html) - A beginner's guide to implementing MosaicAI in your projects.
 
 ## 🛠️ Tooling Techniques
-- [MosaicAI Tools and Libraries](https://docs.databricks.com/applications/machine-learning/mosaic/tools-libraries.html) - An overview of the tools and libraries available for MosaicAI.
+
+LLM application framework (image from Databricks documentation) shown below  
+
+<img src="https://docs.databricks.com/en/_images/llm-ops-simplified.png" width=800>
+
+- [MosaicAI Tools Agent Framework](https://docs.databricks.com/en/generative-ai/retrieval-augmented-generation.html#what-is-mosaic-ai-agent-framework) - An overview of the agent tools and libraries available for MosaicAI.
 - [Integrating MosaicAI](https://www.databricks.com/blog/2021/12/07/introducing-databricks-mosaic-ai-a-unified-platform-for-generative-ai.html) - How to seamlessly integrate MosaicAI into your data workflows.
 - [MosaicAI and Machine Learning](https://www.databricks.com/blog/2021/11/30/accelerating-machine-learning-with-mosaic-ai.html) - Combining MosaicAI with machine learning for enhanced data insights.
 - [MosaicAI Security Features](https://docs.databricks.com/security/privacy/mosaic-ai-security.html) - Ensuring your data is secure with MosaicAI's robust security features.
