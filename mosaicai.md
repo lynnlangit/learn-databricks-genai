@@ -1,4 +1,6 @@
-# MosaicAI by Databricks
+# Mosaic AI by Databricks
+
+***IMPORTANT: These links do not work - must update with actual working links***
 
 ## 🌐 Global Insights
 - [Databricks GenAI Overview](https://www.databricks.com/discover/generative-ai) - Discover the power of Generative AI with Databricks.
