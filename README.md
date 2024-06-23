@@ -11,11 +11,11 @@ High-level diagram of Generative AI key application development phases (from Dat
 - Use Large Language Models (LLMs) including DBRX (from Databricks) 
 - Use open source LLMs, such as Mistral or Llama and others
 
-## Course Content
+## 📚 Course Content
 
 For course content, see [here](course.md).
 
-## Scripts Folder Structure and Usage
+## 📁 Scripts Folder Structure and Usage
 
 The `scripts` folder in this repository is organized into subfolders corresponding to sections from the `additional-material.md` page. Each subfolder contains Python scripts named after the links provided in the respective section. These scripts serve as references or starting points for exploring the topics mentioned in the links. Here's how to navigate and use the scripts:
 
