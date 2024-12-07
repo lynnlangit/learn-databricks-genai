@@ -1,7 +1,5 @@
 # Learn Databricks GenAI
 
-<kbd><img src="https://www.databricks.com/en-website-assets/static/8eccd00184d50da8ba9866225e0fa062/25630.png" width=600></kbd>
-
 This is my companion Repo for my `Learning Databricks GenAI` (Generative AI) LI_L course 
 - Repo includes links, samples and notebooks from course and other supplemental material
 - Course will release in 2025
