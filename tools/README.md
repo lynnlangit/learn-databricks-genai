@@ -8,4 +8,4 @@ A useful tool is the Databricks Machine learning playground.
 - You can compare prompt results across multiple foundational GenAI models.
 - Example image shown below.
 
-<img src="https://github.com/lynnlangit/learn-databricks-genai/blob/main/images/playground.png">
+<kbd><img src="https://github.com/lynnlangit/learn-databricks-genai/blob/main/images/playground.png"></kbd>
