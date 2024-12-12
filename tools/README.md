@@ -4,7 +4,7 @@ Many tools exist for GenAI model exploration and use in the Databricks ecosystem
 
 ## Databricks WebUI Tools
 
-A useful tool is the Databricks Machine learning playground. 
+A useful tool is the **Databricks Machine Learning Playground**. 
 - You can compare prompt results across multiple foundational GenAI models.
 - Example image shown below.
 
