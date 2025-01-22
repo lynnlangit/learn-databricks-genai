@@ -31,7 +31,8 @@ This section has been moved from the README.md to this dedicated course content 
 - Understand RAG - [link](https://docs.databricks.com/en/generative-ai/retrieval-augmented-generation.html)
 - Use Unstructured data in RAG
 - Use Structured data in RAG
-- Build a RAG chain
+- Build a RAG chain - see Notebooks folder (RAG)
+- Gen AI Cookbook - [link](https://ai-cookbook.io/index-2.html)
 
 ## 🏋️ Model Tuning in Databricks		
 
