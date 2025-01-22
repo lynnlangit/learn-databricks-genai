@@ -15,6 +15,7 @@ Tips for running the `01-classification-fine-tuning-customer-support` example no
   ```
 - view progress of fine-tuning job in ML Experiments Web UI
 
-### Other Notebooks
+### Other Fine Tuning Example Notebooks
 
 - Hugging Face Transformer model tuning example notebook at [link](https://docs.databricks.com/en/_extras/notebooks/source/deep-learning/tune-classification-model-hugging-face-transformers.html)
+- HF Use GPU to Fine Tune - [link](https://docs.databricks.com/en/machine-learning/train-model/huggingface/fine-tune-model.html#notebook-fine-tune-text-classification-on-a-single-gpu)
