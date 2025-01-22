@@ -41,4 +41,4 @@ This section has been moved from the README.md to this dedicated course content 
 
 ---
 
-For additional material, see [here](additional-material.md).
+
