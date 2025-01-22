@@ -7,8 +7,9 @@ This is my companion Repo for my `Learning Databricks GenAI` (Generative AI) Lin
 
 ## 📚 Content
 
-- For course content, see [here](course.md).
+- For course content, see [course page](course.md).
 - For sample code, see the `scripts` or `notebooks` folders in this repo
+- For demo setup, see [setup page](https://github.com/lynnlangit/learn-databricks-genai/blob/main/SETUP.md).
 
 ## 📁 Scripts Folder Structure and Usage
 
