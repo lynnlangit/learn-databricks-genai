@@ -2,7 +2,6 @@
 
 This is my companion Repo for my `Learning Databricks GenAI` (Generative AI) LI_L course 
 - Repo includes links, samples and notebooks from course and other supplemental material
-- Shown above is high-level diagram of Generative AI key application development phases (from Databricks documentation)  
   - Use Large Language Models (LLMs) including DBRX (from Databricks) 
   - Use open source LLMs, such as Mistral or Llama and others
 
