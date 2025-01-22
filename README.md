@@ -1,6 +1,6 @@
 # Learn Databricks GenAI
 
-This is my companion Repo for my `Learning Databricks GenAI` (Generative AI) LI_L course 
+This is my companion Repo for my `Learning Databricks GenAI` (Generative AI) Linked In Learning course 
 - Repo includes links, samples and notebooks from course and other supplemental material
   - Use Large Language Models (LLMs) including DBRX (from Databricks) 
   - Use open source LLMs, such as Mistral or Llama and others
@@ -8,8 +8,6 @@ This is my companion Repo for my `Learning Databricks GenAI` (Generative AI) LI_
 ## 📚 Content
 
 - For course content, see [here](course.md).
-- For additional materials, see [here](additional-material.md).
-- For an overview of MosaicAI by Databricks, see [here](mosaicai.md).
 - For sample code, see the `scripts` or `notebooks` folders in this repo
 
 ## 📁 Scripts Folder Structure and Usage
