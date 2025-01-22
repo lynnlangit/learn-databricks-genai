@@ -3,7 +3,7 @@
 - [Understand RAG](https://docs.databricks.com/en/generative-ai/retrieval-augmented-generation.html)
 - [Demo Notebooks](https://notebooks.databricks.com/demos/llm-rag-chatbot/index.html#) - examples one, two and three
 
-### Tips
+### Tips to Try out Example One
 
 - May have to run setup manually - paths in first notebook are incorrect
 - Check Web UI for index endpoint,  it may have been created and not returned as such to the code block
