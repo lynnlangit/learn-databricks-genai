@@ -34,10 +34,10 @@ This section has been moved from the README.md to this dedicated course content 
 
 ## 🏋️ Model Tuning in Databricks		
 
-- Understanding Hugging Face Transformers - [link](https://docs.databricks.com/en/machine-learning/train-model/huggingface/index.html)
-- Fine tuning with Hugging Face Transformers - [link](https://docs.databricks.com/en/machine-learning/train-model/huggingface/fine-tune-model.html)
 - Understand Foundation Model Training - [link](https://docs.databricks.com/en/large-language-models/foundation-model-training/index.html)
 - Supervised fine tuning with Foundation Model Training - [link](https://docs.databricks.com/en/large-language-models/foundation-model-training/fine-tune-run-tutorial.html)
+- Understanding Hugging Face Transformers - [link](https://docs.databricks.com/en/machine-learning/train-model/huggingface/index.html)
+- Fine tuning with Hugging Face Transformers - [link](https://docs.databricks.com/en/machine-learning/train-model/huggingface/fine-tune-model.html)
 
 ---
 
