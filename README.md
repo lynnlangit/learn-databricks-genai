@@ -4,7 +4,7 @@
 
 Image from [Databricks Books Book of GenAI](https://www.databricks.com/resources/ebook/big-book-generative-ai).
 
-This is my companion Repo for my `Learning Databricks GenAI` (Generative AI) Linked In Learning course 
+This is my companion Repo for my [`Learning Databricks GenAI` (Generative AI) Linked In Learning course](https://www.linkedin.com/learning/learn-databricks-genai) 
 - Repo includes links, samples and notebooks from course and other supplemental material
   - Use Large Language Models (LLMs) including DBRX (from Databricks) 
   - Use open source LLMs, such as Mistral or Llama and others
